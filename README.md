@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Nicholas Njogu.
-- 👀 I’m interested in Blockchain projects specifically Corda, Fullstack Web Apps(ReactJS & Java) and Mobile Apps(Flutter)
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Blockchain development such as Corda & Binance Smart Chain, Fullstack Web Apps(ReactJS & Java) and Mobile Apps(Flutter)
+- 🌱 I’m currently learning Rust to develop on Solana and Near blockchains.
+- 💞️ I’m looking to collaborate on blockchain projects.
+- 📫 You can reach me through my email nnjogu49@gmail.com.
 
 <!---
 njogu99/njogu99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
